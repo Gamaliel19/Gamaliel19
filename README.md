@@ -1,6 +1,6 @@
 Bonjour, je suis Gamaliel
 
-Développeur informatique et ingénieur en instruments météorologiques.
+Développeur informatique et ingénieur en microinformatique spécialisé en instrumentation météo et cybersécurité.
 
 Compétences
 
