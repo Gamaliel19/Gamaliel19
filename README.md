@@ -1,16 +1,19 @@
-## Hi there 👋
+Bonjour, je suis Gamaliel
 
-<!--
-**Gamaliel19/Gamaliel19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur informatique et ingénieur en instruments météorologiques.
 
-Here are some ideas to get you started:
+Compétences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Développement Python, JavaScript, C
+
+Microinformatique et systèmes embarqués
+
+Cybersécurité et administration système
+
+Traitement de données météo et hydrologiques
+
+Me contacter
+
+LinkedIn : https://linkedin.com/in/yagali
+
+Email : yagalinaf@gmail.com
